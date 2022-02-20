@@ -101,15 +101,15 @@ int sumTwoNumbers(int midterm, int final)
 //Fun. to calculate area of a circle
 double areaOfCircle(double radius)
 {
-    double pi = 3.14;
-    return pi * radius * radius;
+    
+    return 0;
 }
 
 //Fun. to calculate circumference of a circle
 double circumferenceOfCircle(double radius)
 {
-    double pi = 3.14;
-    return pi * (radius + radius);
+    
+    return 0;
 }
 
 //Fun. to calculate price with VAT
