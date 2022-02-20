@@ -113,5 +113,6 @@ double circumferenceOfCircle(double radius) {
 //Fun. to calculate price with VAT
 double priceIncludingVAT(double price, int VAT)
 {
+	
 	return price + (price * VAT / 100);
 }
